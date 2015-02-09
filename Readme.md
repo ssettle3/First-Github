@@ -1,9 +1,7 @@
-This is my first attempt at Github
+# First GitHub
 
-# This is a basically a H1 tag
+## Description
+ * The purpose of this project was to familiarize myself with GitHub and learn to use the terminal with git to push a project to a created repository.
 
-## This is basically a H2 tag
-
-* List Item
-* List Item 2
-
+## Copyright / License
+ This project belongs to Stephen Settle
